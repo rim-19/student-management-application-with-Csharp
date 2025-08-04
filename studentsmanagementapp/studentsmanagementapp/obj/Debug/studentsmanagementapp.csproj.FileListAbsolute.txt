@@ -1,0 +1,11 @@
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\bin\Debug\studentsmanagementapp.exe.config
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\bin\Debug\studentsmanagementapp.exe
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\bin\Debug\studentsmanagementapp.pdb
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.csproj.AssemblyReference.cache
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.Properties.Resources.resources
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.csproj.GenerateResource.cache
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.csproj.CoreCompileInputs.cache
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.exe
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.pdb
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.studentmanagement.resources
+D:\ownprjcts\lanCsharpown\studentsmanagementapp\studentsmanagementapp\obj\Debug\studentsmanagementapp.seachform.resources
